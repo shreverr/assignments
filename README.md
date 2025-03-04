@@ -1,6 +1,6 @@
-# Turborepo starter
+# Assignments
 
-This Turborepo starter is maintained by the Turborepo core team.
+Open source automation for take home assignments
 
 ## Using this example
 
